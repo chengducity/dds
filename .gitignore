@@ -1,0 +1,3 @@
+# Project exclude paths
+/newWeb/web/WEB-INF/classes/
+/out/

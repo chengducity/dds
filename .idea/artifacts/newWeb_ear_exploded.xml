@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="newWeb:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/newWeb_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="newWeb/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
